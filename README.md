@@ -18,7 +18,7 @@ A sleek, modern cryptocurrency dashboard built with Next.js and Tailwind CSS. Mo
 Clone the repository and install dependencies:
 
 # Clone the repository
-git clone https://github.com/yourusername/subscribe-crypto-dashboard.git
+git clone https://github.com/daprior/crypto-dashboard.git
 
 # Navigate to the project directory
 cd subscribe-crypto-dashboard
