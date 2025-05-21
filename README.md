@@ -20,9 +20,6 @@ Clone the repository and install dependencies:
 # Clone the repository
 git clone https://github.com/daprior/crypto-dashboard.git
 
-# Navigate to the project directory
-cd subscribe-crypto-dashboard
-
 # Install dependencies
 npm install
 
